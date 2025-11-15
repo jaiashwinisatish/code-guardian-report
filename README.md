@@ -6,7 +6,7 @@ Enhanced with AI Fix Suggestions, Secure Code Search, Code Provenance Monitoring
 
 > Now includes CI/CD integration examples, API usage guide, self-hosting instructions, and enterprise SSO details.
 
-**Current Version: 8.6.0 - Developed by Aditya Kumar Tiwari**
+
 Now with Revolutionary AI-Powered Security Features, GitHub Analysis & Enterprise Analytics
 
 <img src="./public/home.png" alt="Code Guardian - AI-Powered Security Analysis Platform" width="100%" style="border-radius: 16px; box-shadow: 0 20px 60px rgba(0,0,0,0.15); border: 2px solid rgba(255,255,255,0.1);">
